@@ -1,6 +1,7 @@
 # 📷 Camera Calibration with OpenCV
 
-This repository provides two Python scripts for calibrating a camera using a checkerboard pattern. It generates camera intrinsic parameters compatible with [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
+This repository provides two Python scripts for calibrating a camera using a checkerboard pattern. 
+It generates camera intrinsic parameters file (compatible with [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)).
 
 ---
 
