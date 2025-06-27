@@ -13,6 +13,7 @@ This repository provides two Python scripts for calibrating a camera using a che
 ├── Camera_calibration.yaml # Output file from full-resolution script
 ├── Camera_ORBSLAM2.yaml # Output file from resized version
 └── README.md
+![image](https://github.com/user-attachments/assets/abe57d1f-1248-46b2-9aa3-070098833f35)
 
 
 ---
